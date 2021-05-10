@@ -71,6 +71,20 @@ const ButtonsSection = () => {
                     </Button>
                 </Col>
             </Row>
+            <Row
+                className =  'text-center'
+            >
+                <Col
+                    md   = { 6 }
+                >
+                    <Button
+                        href        = '/may1022021'
+                        className   = 'mt-3'
+                    >
+                        Diez de Mayo Especial 🍒🍒🍒
+                    </Button>
+                </Col>
+            </Row>
         </Fragment>
     )
 }

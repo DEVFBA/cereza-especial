@@ -42,6 +42,8 @@ const SpecialInvitation = () => {
             <img class="img-fluid" src="./images/Tercera.png"></img>
             <h3>Cuarto Módulo</h3>
             <img class="img-fluid" src="./images/Cuarta.png"></img>
+            <h3>Quinto Módulo</h3>
+            <img class="img-fluid" src="./images/Quinta.png"></img>
         </Fragment>
     );
 
