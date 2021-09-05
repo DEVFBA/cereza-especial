@@ -84,6 +84,17 @@ const ButtonsSection = () => {
                         Diez de Mayo Especial 🍒🍒🍒
                     </Button>
                 </Col>
+
+                <Col
+                    md   = { 6 }
+                >
+                    <Button
+                        href        = '/sep092021'
+                        className   = 'mt-3'
+                    >
+                        Un día de festejo especial 🎂🍒🎊
+                    </Button>
+                </Col>
             </Row>
         </Fragment>
     )
