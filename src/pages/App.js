@@ -46,6 +46,9 @@ import {
 import { 
   May10_2021
 } from '../containers/May10_2021';
+import { 
+  Sep09_2021
+} from '../containers/Sep09_2021';
 
 import {
   weekDay,
@@ -100,6 +103,7 @@ function App() {
             <Route exact path   = '/BestSmile'            component = { BestSmile }/>
             <Route exact path   = '/SpecialInvitation'    component = { SpecialInvitation }/>
             <Route exact path   = '/may1022021'           component = { May10_2021 }/>
+            <Route exact path   = '/sep092021'            component = { Sep09_2021 }/>
           </Switch>
         </Row>
 

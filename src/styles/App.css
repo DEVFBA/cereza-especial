@@ -4,4 +4,12 @@ body {
   color: white;
 }
 
+@font-face {
+  font-family: "Mastelo";
+  src: local("Mastelo"), url(../fonts/Mastelo.ttf) format("truetype");
+}
+h1 {
+  font-family: Mastelo, serif;
+}
+
 /*# sourceMappingURL=App.css.map */
