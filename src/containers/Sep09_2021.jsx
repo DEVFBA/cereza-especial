@@ -61,7 +61,7 @@ const Sep09_2021 = () => {
                     <Col
                         md  = { 4 }
                     >
-                        <img class = 'img-fluid' src="./images/polar_birthday.jfif" alt="" />
+                        <img class = 'img-fluid' src="./images/Polar.jpg" alt="" />
                     </Col>
 
                     <Col
@@ -139,6 +139,134 @@ const Sep09_2021 = () => {
                     >
                         <h3>Llegó el momento de volver a verte, disfrutar un viaje juntos por tu cumpleaños. El primero aún no se de cuantos que festejaremos juntos. La emoción no la podía esconder, mucha gente se dio cuenta, y había decidido jugarmelo todo porque en verdad sabía que lo vales, que vales cada esfuerzo de demostrarte lo especial que ya eras para mí. Otro día más SEMPITERNO en mi alma, conocer Chautla que nunca habíamos ido ninguno de los dos, caminar por Cholula, darte una rosa (artificial pero de corazón), buscar farmacia para un paracetamol para tu migraña y una plática con churros que no me espere resultara como resultó (de entre todas tus cualidades está el don de cambiarme la vida y los planes) una plática que se sintió SEMPITERNA, al igual que esa noche aunque no pretendía sentirla así… a pesar de todo sentirte cerca de mi pasando una noche juntos fue …. Padre, bonito…. No como hubiera esperado pero no cambiará esa noche por nada… las cosas debían ser así….. </h3>
                         <h3>Me desperté tras una noche que se sintió SEMPITERNA, mi corazón acelerado libraba una de la batallas más fuertes contra mi cabeza, te aseguro que al público le estaban dando un espectáculo digno de recordar por esa batalla entre corazón y razón, se declaró un ganador, en el último cuarto lo ganó por apenas un gol de campo, ese gol de campo del que no me arrepentiré jamás, me la jugué y me decidí…..</h3>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col
+                        md  = { 6 }
+                    >
+                        <h2 class = 'text-center'>Capítulo 6 - Sensualidad</h2>
+                        <h3>…. te bese la frente, luego una mejilla, no me pude resistir, te di un beso en los labios el cual respondiste. Me sentí un adolescente besando por primera vez porque lo que se senti en ese momento, fuera de todo cliché, fue único. Te abrace y te dije que en verdad quería jugarmela, que no pensaba hacerme a un lado sin haber realmente dado todo por demostrarte que quería ser diferente, que quería estar contigo y ser parte de ti, fue en ese momento que la definición de SENSUALIDAD tomo un significado más allá de lo físico cuando estabas encima de mi mientras te besaba. No lo voy a negar, verte desnuda me puso al mil, pero no solo era el placer físico de sentir con mis manos tu piel, cada curva de tu cuerpo, estar admirando por primera vez tu desnudez, sino que también era el revoloteo de sentimientos de poder tener un poco de ti, de tu entrega, de poder demostrarte en cada caricia lo que me hacías sentir en cada llamada, cada plática, combinar todo aquello que pensaba y sentía por ti, combinar casa experiencia que me hacías vivir y sentir tu SENSUALIDAD física y del alma. No lo voy a negar, fantasee mucho tiempo con ese momento, y al poderlo vivir fue aún mejor, los nervios me afloraron más allá de lo que creí.</h3>
+                    </Col>
+
+                    <Col
+                        md  = { 6 }
+                    >
+                        <img class = 'img-fluid' src="./images/Primera_Vez.png" alt="" />
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col
+                        md  = { 12 }
+                    >
+                        <h3>Verte partir, quedándome con una oportunidad mínima de poder demostrarte que en verdad ya significabas mucho para mí, me hizo sentir tranquilo, sabía que cualquiera que fuera el resultado ya había ganado esa oportunidad de ser quien te hiciera perder los miedos.</h3>
+                        <h3>Cuándo conoces la SENSUALIDAD, de la manera que me has hecho conocerla, aprendes que el placer que me provocas puede venir desde el sencillo hecho de saber que existes, de saber que te cruzaste en mi camino. Las fantasías pasan más allá de la cama y se vuelven la alegría de tan solo poder tocar tu mano, verte a los ojos y besarte.</h3>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col
+                        md = { 4 }
+                        >
+                        <img class = 'img-fluid' src="./images/Homero.jpg" alt="" />
+                    </Col>
+
+                    <Col
+                        md = { 8 }
+                    >
+                        <h3>Caminar a tu lado y sentirme poderoso, es uno de los mayores placeres porque tu SENSUALIDAD viene también de lo maravillosa que eres como mujer, de lo grandiosa que es tu alma. Tu SENSUALIDAD es la suma de cada curva de tu cuerpo, de cada sueño que tienes como mujer, de todos los esfuerzos que haces por salir adelante al lado de tu hija, de lo que me has enseñado y lo mucho que he aprendido habiendo convivido contigo.</h3>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col
+                        md = { 12 }
+                    >
+                        <h3>Hacerte el amor en la cama, las pocas veces que ha sucedido, es un acto de demostrarte que eres la chavita de mi vida, de poder acariciarte y mientras te miro a los ojos permitir que veas mi alma y que sepas la galaxia de sentimientos que has tatuado no solo en mi piel sino en mi alma.</h3>
+                        <h3>Te ganaste con todas tus cualidades un lugar en mi piel en mis tatuajes y llevaste el concepto de SENSUALIDAD que vivía cuando fantaseaba contigo, a fantasear con hacerte sonreír y saber que eres feliz. Me inspiras no a ser poeta, no escritor, solo un intento de artista que busca pintar una sonrisa en tu rostro (se que aún no he podido pintar la mejor de tus sonrisas). Se en el corazón que si Dios y la vida me dan la oportunidad de poder mirarte a los ojos y pintar tu mejor sonrisa, una incluso mejor de la que hayan pintando otras personas, conoceré un grado de SENSUALIDAD que no cualquier podría conocer, se que habré conocido el concepto de SENSUALIDAD que te hace tocar el……</h3>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col
+                        md  = { 12 }
+                    >
+                        <h2 class = 'text-center'>Capítulo 7 - Infinito</h2>
+                        <h3>... INFINITO, y es que besarte es sentir que los pies se me despegan del suelo y mi mente y corazón viajan a través de lo INFINITO que es el universo.</h3>
+                        <h3>De entre todo el mundo de sensaciones existentes, lo que eres capaz de provocar como mujer es indescriptible, no existen palabras y la única que podría encontrar es INFINITO esperando que exista alguna forma de describir en palabras lo que siento por ti. Llevamos siete y aún creo que me quedo corto en poderlo describir. </h3>
+                        <h3>De entre millones de historias que se cuentan en este universo, la que inició con una trampa del destino es para mí la que espero la vida escoja para que quede grabada en alguna estrella y se quede para contarse INFINITAS veces y que alguien tras milenios pueda, al ver esa entrella en el INFINITO universo, que la vida se encarga de darnos a todos la oportunidad de una…….</h3>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col
+                        md = { 6 }
+                    >
+                        <img class = 'img-fluid' src="./images/Cielo.png" alt="" />
+                    </Col>
+
+                    <Col
+                        md  = { 6 }
+                    >
+                        <h2 class = 'text-center'>Capítulo 8 - Serendipia</h2>
+                        <h3>…. SERENDIPIA, y es que bien dicen que no sabes ni siquiera lo que buscas hasta que sencillamente llega ese momento en donde conoces una fortuna distinta, pasa algo que pareciera un accidente afortunado.</h3>
+                        <h3>Un accidente porque por más que lo pienso no debió ocurrir, y afortunado porque por más errores que haya cometido en el pasado la vida y Dios me regaló la fortuna de conocerte, de sentir algo por ti y que me enseñarás una manera de sentir diferente, una manera de sentir auténtica.</h3>
+                        <h3>Darme cuenta que puedo ser aún mejor persona es una SERENDIPIA.</h3>
+                        <h3>Encontrar un sentimiento tan fuerte es una SERENDIPIA.</h3>
+                        <h3>Poder escuchar tu voz es una SERENDIPIA. </h3>
+                        <h3>Compartir la mesa contigo, un helado, una película es una SERENDIPIA.</h3>
+                        <h3>Tu belleza es una SERENDIPIA.</h3>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col
+                        md = { 12 }
+                    >
+                        <h3>Tu cuerpo, tu piel, perderme en ti cuando hemos hecho el amor es una SERENDIPIA.</h3>
+                        <h3>Besarte es una SERENDIPIA.</h3>
+                        <h3>Contarte pato aventuras es una SERENDIPIA.</h3>
+                        <h3>Y así podría seguir y seguir, y es que cada momento compartido, cada llamada, cada mensaje es un hallazgo nuevo, un sentimiento nuevo que se suma a lo que ya siento por ti y debo dar gracias a Dios en esta víspera de tu cumpleaños 32 que me haya dado la oportunidad de abrir esa puerta y verte ahí, que me dé la bendición de conocerte y que cada que te conozco más sea una SERENDIPIA, porque tú Mariela eres única, tienes una magia solo tuya que me hace estremecer y si vieras mi sonrisa cuando veo tu nombre en una notificación o en una llamada o mi sonrisa nerviosa cuando se que te veré, verías la misma sonrisa que viste cuando abrí la puerta y viví sencillamente una SERENDIPIA cuando llegaste a mi vida, cuando llegaste a convertirte en la chavita de mi vida, cuando te convertiste en ….</h3>
+
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col
+                        md  = { 12 }
+                    >
+                        <h2 class = 'text-center'>Capítulo 9 - Cereza</h2>
+                        <h3>……. CEREZA, y si me apego a la definición de la RAE </h3>
+                        <h3>F. Fruto del cerezo. Es una drupa con cabillo largo, casi redonda, de unos dos centímetros de diámetro, con surco lateral, piel lisa de color encarnado más o menos oscuro, y pulpa muy jugosa, dulce y comestible.</h3>
+                        <h3>Pero en este particular caso la definición, el significado que toma va más allá de lo que cualquier persona pueda definir, leer o pensar.</h3>
+                        <h3>Para mí la mejor definición es….</h3>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col
+                        md = { 6 }
+                    >
+                        <h3>Mujer única que con su INTELIGENCIA es capaz de cautivar a cualquiera, con la magia de que solo con escuchar el candor MELIFLUO me hace pensar tanto en ella que me brotan sentimientos que nunca había sentido. Esa mujer que es capaz de envolver un sueño ETEREO en el deseo INFINITO de que esa silueta INEFABLE que se graba en sueños y fantasías se vuelva una realidad. Esa persona que cuando por fin se volvió una realidad deseo que cada segundo se vuelva SEMPITERNO solo por encontrar una oportunidad de mirarme en sus ojos. Esa SERENDIPIA que sucede cuando decides abrir una puerta y dejarte llevar. La causalidad y trampa del destino que me llevo a conocer que tú SENSUALIDAD va más allá de tu hermoso cuerpo desnudo y del calor que siento acariciando tu piel y besándote, está en poderte ver sonreír y fantasear no solo con volver a hacerte el amor, sino en poder caminar a tu lado, hacerte reír y poder compartir un día contigo.</h3>
+                        <h3>Esa, es la definición de CEREZA en mi vocabulario, en mi piel, en motivarme y dedicarte no solo palabras, sino dedicarte mi motivación, dedicarte mis ganas de que cualquiera que sea el camino del destino seas inmensamente feliz y que hoy que estás cumpliendo años se te abran millones de puertas y bendiciones que mereces desde el momento en que llegaste a este mundo, porque entre todo el mundo te encontré sin merecerlo y eres el regalo de Dios del cual estoy muy agradecido porque todo lo anterior se resume en ti, en tu esencia. Porque CEREZA eres tú, porque no es el lugar, ni el tiempo, ni nada que se pueda definir ni si quiera en nueve palabras, eres tú Mariela.</h3>
+                    </Col>
+
+                    <Col
+                        md = { 6 }
+                        >
+                        <img class = 'img-fluid' src="./images/La_Mejor_Sonrisa.jpg" alt="" />
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col
+                        md = { 12 }
+                    >
+                        <h3>Feliz cumpleaños 🍒😌 gracias por sencillamente existir y darme la oportunidad de que mi corazón sienta algo por ti. Gracias por ser la CEREZA del pastel de mi vida.</h3>
+                        <h3>Por siempre mis mejores deseos en este año nuevo de vida que Dios te está regalando.</h3>
+                        <h3>Atte…. El que sonríe por saber que existes.</h3>
                     </Col>
                 </Row>
         </Fragment>
